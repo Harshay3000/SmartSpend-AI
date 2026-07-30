@@ -73,7 +73,7 @@ It combines several AI and Data Science components into one application:
                                   │
                                   ▼
                          User-facing Insights
-
+```
 ## ✨ Features
 
 ### 1. Natural-Language Expense Entry
