@@ -6,6 +6,26 @@ SmartSpend AI allows users to record expenses naturally, automatically categoriz
 
 ---
 
+## 📸 Application Preview
+
+### 🏠 Main Dashboard
+
+![SmartSpend Dashboard](screenshots/dashboard.png)
+
+### 💰 Budget Management
+
+![Budget Management](screenshots/budget.png)
+
+### 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics.png)
+
+### 🤖 AI Financial Advisor
+
+![AI Financial Advisor](screenshots/ai-advisor.png)
+
+---
+
 ## 🚀 What makes SmartSpend different?
 
 SmartSpend is not just a CRUD-based expense tracker.
