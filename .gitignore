@@ -29,6 +29,7 @@ ENV/
 
 expenses.csv
 budgets.json
+*.db
 
 # ==============================
 # Local ML artifacts
