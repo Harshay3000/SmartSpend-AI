@@ -4,7 +4,7 @@
 
 SmartSpend AI lets users record expenses using natural language, automatically categorize transactions, analyze spending patterns, create and manage budgets, receive AI-powered financial insights, and interact with a conversational financial advisor.
 
-**Live Demo:** Add your Streamlit app URL here
+**Live Demo:** https://smartspend-ai-hfwyaqxwmitx9xptq6zds6.streamlit.app/
 
 ---
 
