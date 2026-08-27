@@ -7,8 +7,7 @@ from utils import (
     hybrid_parse_expense,
     save_expense,
     summarize_expenses,
-    clear_expenses,
-    update_category,
+    clear_expenses  
 )
 
 from classifier import (
